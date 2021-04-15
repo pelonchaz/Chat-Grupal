@@ -1,0 +1,7 @@
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe.config
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.pdb
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csprojAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.exe
+C:\Users\PERSONAL\Desktop\Chat-Grupal\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.pdb
